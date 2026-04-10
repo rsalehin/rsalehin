@@ -56,7 +56,7 @@ Languages    Python · C++ · Java · JavaScript · SQL · Bash
 - 🎓 M.Sc. Physics — Leipzig University *(in progress)*
 - 🎓 B.Sc. Physics — Leipzig University (2.1)
 - 🎓 B.Sc. Computer Science & Engineering — BUET
-- 🏆 5th Place, ACM-ICPC Asia Dhaka Regional 2011
+- 🏆 5th Place, ACM-ICPC Asia Regional
 - 📍 Leipzig, Germany · Open to opportunities in Germany and EU
 
 ---
