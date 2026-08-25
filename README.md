@@ -32,12 +32,26 @@ Exoplanet research assistant combining Elasticsearch hybrid search with Vertex A
 
 ## Production Experience
 
-- **BERT classifier** — automated routing of 6,000 daily support tickets at 93.7% accuracy, saving 60 person-hours/week
-- **LLaMA 2 13B fine-tuning** — LoRA/PEFT on proprietary knowledge base, deployed via vLLM; cut analyst research time by 50%
-- **Fraud detection tooling** — reduced fraudulent listings by 43% on a classified ads marketplace serving 100k+ users
-- **Multi-agent LLM pipeline** — LangGraph + DeepSeek with tool-calling for automated astronomical observation report analysis
+- **Hybrid RAG & scientific knowledge systems** — built a local RAG + knowledge-graph platform over **2,000 astrophysics papers** using BGE-M3, SPECTER2, BM25, FAISS, RRF, cross-encoder reranking, DuckDB, and NetworkX, with systematic Recall@K, MRR, nDCG, and groundedness evaluation.
 
----
+- **Agentic AI systems** — developed **LangGraph-based multi-agent workflows** with typed tool calling, structured state, schema-validated intermediate outputs, retries, validation, and evidence-backed synthesis for automated scientific analysis.
+
+- **Production AI platform engineering** — built and deployed a full-stack AI search and matching platform using **FastAPI, React, PostgreSQL, Docker, AWS ECS Fargate, RDS, S3/CloudFront, Terraform, GitHub Actions, and CloudWatch**, combining BGE-M3/BM25 retrieval, RRF, cross-encoder reranking, and LLM-based scoring.
+
+- **Conversational AI & enterprise agents** — developed an omnichannel voice/chat agent platform with **Python, TypeScript, LangGraph, ACL-aware RAG, streaming ASR/TTS, and CRM/SAP integrations**, backed by automated unit, integration, E2E, security, and dependency testing.
+
+- **LLM fine-tuning & inference** — fine-tuned **LLaMA 2 13B** using LoRA/PEFT on domain-specific data and deployed it with **vLLM** for high-throughput internal question answering.
+
+- **NLP classification at scale** — trained and deployed a **BERT-based classifier** processing approximately **6,000 support tickets per day at 93.7% accuracy**, reducing manual workload by roughly **60 person-hours per week**.
+
+- **Recommendation systems** — developed a two-stage recommendation platform with **PySpark ALS + LightGBM learning-to-rank, Kafka, Redis, and Elasticsearch**, evaluated using Recall@K, nDCG, coverage, and online A/B testing.
+
+- **Demand forecasting & MLOps** — built hierarchical retail forecasting pipelines using **PySpark, LightGBM, Prophet, Airflow, MLflow, BigQuery, Docker, and Grafana**, with rolling-origin validation and WAPE, sMAPE, and forecast-bias monitoring.
+
+- **Document AI** — developed OCR/NLP invoice-processing pipelines using **OpenCV, Tesseract, spaCy, and LayoutLM**, including confidence-based human review, auditability, and feedback-driven model improvement.
+
+- **Production software engineering** — built marketplace, e-commerce, payments, search, messaging, and logistics systems using **Python/Django, Node.js, PostgreSQL, MongoDB, Elasticsearch/Solr, Redis, WebSockets, PostGIS, and AWS**, including fraud tooling that reduced fraudulent listings by **43%**.
+
 
 ## Stack
 
