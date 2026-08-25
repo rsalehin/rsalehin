@@ -77,5 +77,5 @@ Languages    Python · C++ · Java · JavaScript · SQL · Bash
 ## Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rafiqus%20Salehin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafiqus-salehin)
-[![Email](https://img.shields.io/badge/Email-rsalehin@gmail.com-D14836?style=flat&logo=gmail)](mailto:rsalehin@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-rsalehin.github.io-222?style=flat&logo=github)](https://rsalehin.github.io/portfolio/)
+[![Email](https://img.shields.io/badge/Email-rsalehin%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rsalehin@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-rsalehin.github.io-222222?style=for-the-badge&logo=github&logoColor=white)](https://rsalehin.github.io/portfolio/)
