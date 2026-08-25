@@ -11,8 +11,7 @@ Currently a Research Assistant at [Karl-Schwarzschild-Observatorium Tautenburg](
 ## Selected Projects
 
 ### 🔭 [icm-magnetic-field-kb](https://github.com/rsalehin/icm-magnetic-field-kb)
-Local hybrid RAG and knowledge graph over 1,000+ astrophysics papers.
-Dense retrieval (SPECTER2) + BM25 with RRF fusion, DuckDB structured metadata, NetworkX citation graph, FastAPI backend, D3.js frontend, Chrome extension.
+Built a local hybrid RAG and knowledge-graph platform over 2,000 astrophysics research papers using DuckDB, FAISS, NetworkX, SPECTER2, and BGE-M3; implemented BM25 and dense retrieval, RRF fusion, cross-encoder reranking, and evidence assembly for scientific natural-language queries, with systematic evaluation using Recall@K, Precision@K, MRR, and nDCG, retrieval-stage ablation studies, and manual assessment of groundedness, evidence relevance, and citation correctness on a curated scientific query set.
 > `Python` `FAISS` `DuckDB` `NetworkX` `SPECTER2` `BGE-M3` `BM25` `FastAPI`
 
 ### 🌌 [DeepLense-GSoC-2026](https://github.com/rsalehin/DeepLense-GSoC-2026)
@@ -77,6 +76,6 @@ Languages    Python · C++ · Java · JavaScript · SQL · Bash
 
 ## Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-rsalehin-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/rsalehin)
+[![LinkedIn](https://img.shields.io/badge/)](https://linkedin.com/in/rsalehin)
 [![Email](https://img.shields.io/badge/Email-rsalehin@gmail.com-D14836?style=flat&logo=gmail)](mailto:rsalehin@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-rsalehin.github.io-222?style=flat&logo=github)](https://rsalehin.github.io/portfolio/)
