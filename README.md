@@ -1,6 +1,6 @@
 # Rafiqus Salehin
 
-**ML Engineer · Research Software Developer · Physics MSc**
+**AI-ML Engineer · Research Software Developer · Physics MSc**
 
 I build ML systems at the intersection of scientific computing and production engineering — retrieval pipelines, LLM applications, and simulation tooling for research and industry.
 
